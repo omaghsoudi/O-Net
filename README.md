@@ -3,13 +3,13 @@
 
 ## Dependency:
 To install the required packages please use file "requirment.txt".
-To train the one of the networks presented in CVPR 2020, you can modify or use "train.py".
+To train the one of the networks presented in MLMI 2020, you can modify or use "train.py".
 The codes are tested on systems with Python3 and for macOS (Catalina) and Linux OS (Ubuntu 18.04).
 
 
 
 ## Citing this work:
-Please cite our paper in CVPR, if you use any codes or materials from this repository.
+Please cite our paper in MLMI 2020, if you use any codes or materials from this repository.
 
 
 
