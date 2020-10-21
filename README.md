@@ -1,4 +1,6 @@
 # Overall Net (O-Net)
+More details about the study can be found on:
+https://link.springer.com/chapter/10.1007/978-3-030-59861-7_21
 
 
 ## Dependency:
