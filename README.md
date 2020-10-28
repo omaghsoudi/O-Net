@@ -59,3 +59,7 @@ By running "train.py", the following files are generated:
 1) "Model.h5": The model architecture is saved using this file.
 2) "weights_M_00002.h5": It contains weights for epoch 00002
 3) "History.json": It keeps the history of training, including training and validations for each epoch
+
+
+
+[!Image](https://github.com/omaghsoudi/O-Net/blob/master/Sample_images.png)
