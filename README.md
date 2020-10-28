@@ -62,4 +62,4 @@ By running "train.py", the following files are generated:
 
 
 
-[!image](https://github.com/omaghsoudi/O-Net/blob/master/Sample_images.png)
+![image](https://github.com/omaghsoudi/O-Net/blob/master/Sample_images.png)
